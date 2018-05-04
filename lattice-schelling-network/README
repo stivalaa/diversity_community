@@ -1,0 +1,7 @@
+Version of the two-phase Schelling segregtaion plus social network formation
+model from Neal & Neal (2014) allowing also multivariate "type" instead of just
+two distinct types can have Axelrod style culture vector of dimenions F 
+each wiht q possible traits.
+
+ADS
+Wed Oct 15 13:51:06 EST 2014

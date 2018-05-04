@@ -1,0 +1,22 @@
+Jens Pfau's c++ code for his Physica A paper from
+
+http://ww2.cs.mu.oz.au/~pfauj/physicaa2012/physicaa2012-cpp.zip
+
+modified by Alex Stivala to paralleize on MPI system using mpi4py
+in conjunction with physica2012-python-mpi (modified version of Jens's 
+Python scripts)
+
+Version with relatively simple Axelrod model, but using interactinos
+only in Moore neighbourhood, rather than inifinte range, and with
+migration to random vacant location when overlap in neighbourhood
+is less than tolerance threshold. This is the Axelrod-Schelling model
+of Gracia-Lazaro et al (2009).  But also with immutable features added.
+
+Extended to included the second ("interaction") phase of the Neal &
+Neal (2014) extended Schelling model, forming a social network based
+on logistic function of proximity and homophily.
+
+
+
+ADS
+Mon, Apr 27, 2015  4:37:15 PM

@@ -1,0 +1,12 @@
+Version of the two-phase Schelling segregtaion plus social network formation
+model from Neal & Neal (2014) allowing also multivariate "type" instead of just
+two distinct types can have Axelrod style culture vector of dimenions F 
+each wiht q possible traits.
+
+This version uses mean overlap (mean of culturual similarity) with intolerance
+threshold instead of fraction of identical neighbors, like the
+Gracia-Lazaro et al (2009) Axelrod-Schelling model (but with Moore 
+neighbourhood).
+
+ADS
+Tue, Apr 28, 2015  2:30:56 PM
