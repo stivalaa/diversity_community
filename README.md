@@ -18,16 +18,14 @@ The C++ code was compiled with gcc version 4.9.1.
 
 The paper describes two models:
 
-- 
-Model 1: Extended Schelling model with mean similarity. This model can be run with a command line such as: `mpirun --mca mpi_warn_on_fork 0 python ./physicaa2012-python-mpi/src/axelrod/geo/schelling/main.py F:1 ./lattice-schelling-meanoverlap-network/model end 500`
+- Model 1: Extended Schelling model with mean similarity. This model can be run with a command line such as: `mpirun --mca mpi_warn_on_fork 0 python ./physicaa2012-python-mpi/src/axelrod/geo/schelling/main.py F:1 ./lattice-schelling-meanoverlap-network/model end 500`
 
-- 
-Model 2: Extended Axelrod-Schelling model. This model can be run with a command line such as: `mpirun --mca mpi_warn_on_fork 0 python ./physicaa2012-python-mpi/src/axelrod/geo/expphysicstimeline/multiruninitmain.py F:5 ./lattice-axelrod-schelling-nealnetwork-cpp-end/model end 500`
+- Model 2: Extended Axelrod-Schelling model. This model can be run with a command line such as: `mpirun --mca mpi_warn_on_fork 0 python ./physicaa2012-python-mpi/src/axelrod/geo/expphysicstimeline/multiruninitmain.py F:5 ./lattice-axelrod-schelling-nealnetwork-cpp-end/model end 500`
 
 ## Reference
 
 If you use our software, data, or results in your research, please cite:
 
 - Stivala, A., Robins, G., Kashima, Y., and Kirley, M., 2016,
-[Diversity and Community Can Coexist](http://onlinelibrary.wiley.com/doi/10.1002/ajcp.12021/abstract)Am. J. Commun. Psychol.57:243-254
+[Diversity and Community Can Coexist](http://onlinelibrary.wiley.com/doi/10.1002/ajcp.12021/abstract) Am. J. Commun. Psychol.57:243-254
 
