@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stivala"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-2442-4743"
+- family-names: "Robins"
+  given-names: "Garry"
+- family-names: "Kashima"
+  given-names: "Yoshihisa"
+- family-names: "Kirley"
+  given-names: "Michael"
+title: "Diversity and Community Can Co-exist"
+url: https://github.com/stivalaa/diversity_community
+preferred-citation:
+  type: article
+  title: "Diversity and Community Can Co-exist"
+  authors:
+    - family-names: "Stivala"
+      given-names: "Alex"
+      orcid: "https://orcid.org/0000-0002-2442-4743"
+    - family-names: "Robins"
+      given-names: "Garry"
+    - family-names: "Kashima"
+      given-names: "Yoshihisa"
+    - family-names: "Kirley"
+      given-names: "Michael"
+  doi: 10.1002/ajcp.12021
+  journal: American Journal of Community Psychology
+  year: 2016
+  volume: 57
+  issue: "1-2"
+  start: 243
+  end: 254
