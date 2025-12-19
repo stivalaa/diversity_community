@@ -5,6 +5,12 @@ Are Community and Diversity Incompatible? Modeling Social Network Formation and 
 
 Imported from https://sites.google.com/site/alexdstivala/home/communitydiversity
 
+Also available from Zenodo with DOI:
+
+[![DOI](https://zenodo.org/badge/132078819.svg)](https://doi.org/10.5281/zenodo.17993440)
+
+
+
 This software is free under the terms of the GNU General Public License.
 It is derived from code developed for an earlier publication
 [Ultrametric distribution of culture vectors in an extended Axelrod model of cultural dissemination](http://munk.cis.unimelb.edu.au/~stivalaa/ultrametric_axelrod/).
@@ -27,5 +33,5 @@ The paper describes two models:
 If you use our software, data, or results in your research, please cite:
 
 - Stivala, A., Robins, G., Kashima, Y., and Kirley, M., 2016,
-[Diversity and Community Can Coexist](http://onlinelibrary.wiley.com/doi/10.1002/ajcp.12021/abstract) Am. J. Commun. Psychol.57:243-254
+[Diversity and Community Can Coexist](http://onlinelibrary.wiley.com/doi/10.1002/ajcp.12021/abstract) Am. J. Commun. Psychol. 57:243-254
 
